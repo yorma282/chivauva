@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\COOP_Teh.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\COOPteh.Authorization.resources
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\COOPteh.EquipmentAccounting.resources
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Home.resources
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\COOPteh.Settings.resources
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\COOP_Teh.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\COOP_Teh.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.exe
+C:\Users\Пользователь\Desktop\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.pdb

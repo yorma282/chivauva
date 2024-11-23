@@ -1,0 +1,118 @@
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\SmartTech.exe.config
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\SmartTech.exe
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\SmartTech.pdb
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.AssemblyReference.cache
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Home.resources
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Properties.Resources.resources
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.GenerateResource.cache
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.CoreCompileInputs.cache
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.exe
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.pdb
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Authorization.resources
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\x86\sqlite3.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\x64\sqlite3.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.CopyComplete
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.EquipmentAccounting.resources
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Buffers.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Memory.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Buffers.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Memory.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sardor\Desktop\4 курс\УП ПМ 06\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Settings.resources
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\x86\sqlite3.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\x64\sqlite3.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\SmartTech.exe.config
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\SmartTech.exe
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\SmartTech.pdb
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.Interfaces.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.System.Drawing.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Buffers.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.ComponentModel.Annotations.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Memory.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Numerics.Vectors.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\EPPlus.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Buffers.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Memory.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Numerics.Vectors.xml
+D:\SmartTech\SmartTech\SmartTech\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.AssemblyReference.cache
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Authorization.resources
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.EquipmentAccounting.resources
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Home.resources
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Properties.Resources.resources
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.Settings.resources
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.GenerateResource.cache
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.CoreCompileInputs.cache
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.exe
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.pdb
+D:\SmartTech\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.CopyComplete
+D:\SmartTech\SmartTech\bin\Debug\x86\sqlite3.dll
+D:\SmartTech\SmartTech\bin\Debug\x64\sqlite3.dll
+D:\SmartTech\SmartTech\bin\Debug\SmartTech.exe.config
+D:\SmartTech\SmartTech\bin\Debug\SmartTech.exe
+D:\SmartTech\SmartTech\bin\Debug\SmartTech.pdb
+D:\SmartTech\SmartTech\bin\Debug\EntityFramework.dll
+D:\SmartTech\SmartTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\SmartTech\SmartTech\bin\Debug\EPPlus.dll
+D:\SmartTech\SmartTech\bin\Debug\EPPlus.Interfaces.dll
+D:\SmartTech\SmartTech\bin\Debug\EPPlus.System.Drawing.dll
+D:\SmartTech\SmartTech\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SmartTech\SmartTech\bin\Debug\System.Buffers.dll
+D:\SmartTech\SmartTech\bin\Debug\System.ComponentModel.Annotations.dll
+D:\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.dll
+D:\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SmartTech\SmartTech\bin\Debug\System.Memory.dll
+D:\SmartTech\SmartTech\bin\Debug\System.Numerics.Vectors.dll
+D:\SmartTech\SmartTech\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SmartTech\SmartTech\bin\Debug\EntityFramework.xml
+D:\SmartTech\SmartTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\SmartTech\SmartTech\bin\Debug\EPPlus.xml
+D:\SmartTech\SmartTech\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SmartTech\SmartTech\bin\Debug\System.Buffers.xml
+D:\SmartTech\SmartTech\bin\Debug\System.Data.SQLite.xml
+D:\SmartTech\SmartTech\bin\Debug\System.Memory.xml
+D:\SmartTech\SmartTech\bin\Debug\System.Numerics.Vectors.xml
+D:\SmartTech\SmartTech\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.AssemblyReference.cache
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.Authorization.resources
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.EquipmentAccounting.resources
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.Home.resources
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.Properties.Resources.resources
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.Settings.resources
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.GenerateResource.cache
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.CoreCompileInputs.cache
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.csproj.Up2Date
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.exe
+D:\SmartTech\SmartTech\obj\Debug\SmartTech.pdb
